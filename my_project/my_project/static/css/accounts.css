@@ -10,6 +10,10 @@ body {
   color: rgba(0,0,0,.9);
 }
 
+.logo b {
+	color: rgba(0,0,0,.8);
+}
+
 .logo a:hover,
 .logo a:active {
   text-decoration: none;
